@@ -1,4 +1,3 @@
-Leetcode Solutions
 📌 [My Leetcode Profile](https://leetcode.com/u/Mohammed_Elwaei/)
 
 About This Repository
